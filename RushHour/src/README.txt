@@ -1,0 +1,2 @@
+everything works properly aside from printing it horizontally, and the cars move to the last instead of moving one by one. I ran out of time due to emergencies. If you do take a look at
+the code and see things I could improve on I would love to know. Thank you.
